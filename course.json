@@ -1,0 +1,3 @@
+[{"id":1,"name":"E-commerse","Content":"network","DepartmentId":"is"},
+{"id":2,"name":"math","Content":"probablity","DepartmentId":1},
+{"id":3,"name":"programming","Content":"c++","DepartmentId":1}]
